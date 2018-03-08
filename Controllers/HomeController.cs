@@ -16,14 +16,14 @@ namespace Identity_and_Login.Controllers
             return View();
         }
 
-        [Authorize]
+        [Authorize(Roles ="Admin")]
         public IActionResult About()
         {
             ViewData["Message"] = "Your application description page.";
 
             return View();
         }
-
+        [Authorize(Roles = "Admin,user")]
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
