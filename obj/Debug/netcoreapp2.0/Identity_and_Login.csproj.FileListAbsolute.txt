@@ -1,0 +1,12 @@
+c:\users\kompaye\source\repos\Identity_and_Login\Identity_and_Login\bin\Debug\netcoreapp2.0\Identity_and_Login.deps.json
+c:\users\kompaye\source\repos\Identity_and_Login\Identity_and_Login\bin\Debug\netcoreapp2.0\Identity_and_Login.runtimeconfig.json
+c:\users\kompaye\source\repos\Identity_and_Login\Identity_and_Login\bin\Debug\netcoreapp2.0\Identity_and_Login.runtimeconfig.dev.json
+c:\users\kompaye\source\repos\Identity_and_Login\Identity_and_Login\bin\Debug\netcoreapp2.0\Identity_and_Login.dll
+c:\users\kompaye\source\repos\Identity_and_Login\Identity_and_Login\bin\Debug\netcoreapp2.0\Identity_and_Login.pdb
+c:\users\kompaye\source\repos\Identity_and_Login\Identity_and_Login\obj\Debug\netcoreapp2.0\Identity_and_Login.csprojResolveAssemblyReference.cache
+c:\users\kompaye\source\repos\Identity_and_Login\Identity_and_Login\obj\Debug\netcoreapp2.0\Identity_and_Login.csproj.CoreCompileInputs.cache
+c:\users\kompaye\source\repos\Identity_and_Login\Identity_and_Login\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\kompaye\source\repos\Identity_and_Login\Identity_and_Login\obj\Debug\netcoreapp2.0\Identity_and_Login.AssemblyInfoInputs.cache
+c:\users\kompaye\source\repos\Identity_and_Login\Identity_and_Login\obj\Debug\netcoreapp2.0\Identity_and_Login.AssemblyInfo.cs
+c:\users\kompaye\source\repos\Identity_and_Login\Identity_and_Login\obj\Debug\netcoreapp2.0\Identity_and_Login.dll
+c:\users\kompaye\source\repos\Identity_and_Login\Identity_and_Login\obj\Debug\netcoreapp2.0\Identity_and_Login.pdb
